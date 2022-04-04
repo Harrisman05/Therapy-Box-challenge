@@ -6,7 +6,7 @@
     color: black;
 }
 
-body {    
+body {
     min-height: 100vh;
     background-image: url(/images/Assets/Background.png);
     background-size: cover;
@@ -22,7 +22,7 @@ body {
 }
 
 .widget_container {
-    border: 1px red solid;
+    /* border: 1px red solid; */
     max-width: 1000px;
     display: flex;
     flex-flow: row wrap;
